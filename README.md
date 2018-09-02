@@ -9,3 +9,8 @@
 3. free offered assets
 4. recognize decibel from mike
 5. recognize word from mike
+
+with 임지영 이소영 하미르 (2018-1, 멀티미디어 시스템)
+
+시연 영상 
+https://youtu.be/F6EmpH48e4o
